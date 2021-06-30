@@ -1,0 +1,16 @@
+{
+  "name": "short-link",
+  "version": "1.0.0",
+  "description": "A simple URL Shortner API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "TaylorHo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
